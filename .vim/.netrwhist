@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/ali/dev/mach/examples/two-cubes'
+let g:netrw_dirhist_7='/home/ali/dev/mach/examples/triangle'
+let g:netrw_dirhist_6='/home/ali/dev/mach'
+let g:netrw_dirhist_5='/home/ali/dev/mach/freetype/src/freetype'
+let g:netrw_dirhist_4='/home/ali/dev/mach/freetype/src'
+let g:netrw_dirhist_3='/home/ali/dev/mach/freetype'
+let g:netrw_dirhist_2='/home/ali/dev/mach'
+let g:netrw_dirhist_1='/home/ali/Downloads/vim-master'
